@@ -10,8 +10,7 @@ An open-source Unity project with some useful things.
 If you are a beginner developer, you can use this sample and get some information from it.
 
 <h2>Something about using</h2>
-You can download this repository by this <a href="https://t.me/a_RandomityBot">link</a>.
-You can add the bot to your group or use it in your PM. <b>The Randomity doesn't need any admin rights in a group!</b>
+You can download this repository by this <a href="https://github.com/artndev/simply-race/archive/refs/heads/main.zip">link</a>.
 
 <hr>
 
