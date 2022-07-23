@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/y8MvLGfM/Simply-Race.png">
+  <img src="https://i.postimg.cc/DZ1z9kjs/Simply-Race.png">
   <b>A simply race for everyone!</b>
 </div>
 
