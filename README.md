@@ -6,11 +6,11 @@
 <hr>
 
 <h2>What is this?</h2>
-An open-source Unity project with some useful things.
-If you are a beginner developer, you can use this sample and get some information from it.
+An open-source Unity game with some useful things. The SimplyRace is quite simple, collect as many coins as you can and
+get to the finish line. The game were developing for a month for a "Unity games competition".
 
 <h2>Something about using</h2>
-You can download this repository by this <a href="https://github.com/artndev/simply-race/archive/refs/heads/main.zip">link</a>.
+If you are a beginner developer, you can use this sample and get some information from it. You can download the SimplyRace by this <a href="https://github.com/artndev/simply-race/archive/refs/heads/main.zip">link</a>.
 
 <hr>
 
