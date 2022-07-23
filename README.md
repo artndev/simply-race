@@ -6,9 +6,8 @@
 <hr>
 
 <h2>What is this?</h2>
-An open-source bot for the Telegram.
-It's high quality managment of random pictures. The Randomity can entertain your group's members with funny photos 
-on different topics.
+An open-source Unity project.
+It's a good example for creating a game. The Simply-Race contains a lot of interesting things.
 
 <h2>Features</h2>
 The Randomity has:
