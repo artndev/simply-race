@@ -6,8 +6,8 @@
 <hr>
 
 <h2>What is this?</h2>
-An open-source Unity project.
-It's a good example for creating a game. The Simply-Race contains a lot of interesting things.
+An open-source Unity project with some useful things.
+If you are a beginner developer, you can use this sample and get some information from it.
 
 <h2>Features</h2>
 The Randomity has:
