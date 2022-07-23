@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/bwcm4LSJ/Randomity2.png">
+  <img src="https://i.postimg.cc/y8MvLGfM/Simply-race.png">
   <b>A little randomness for your group!</b>
 </div>
 
