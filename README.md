@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/y8MvLGfM/Simply-race.png">
-  <b>A simply race!</b>
+  <b>A simply race for everyone!</b>
 </div>
 
 <hr>
